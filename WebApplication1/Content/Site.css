@@ -28,3 +28,10 @@ textarea {
 {
     background-color:cornflowerblue;
 }
+
+.thumb
+{
+    width:165px;
+    height:165px;
+    padding:3px;
+}
